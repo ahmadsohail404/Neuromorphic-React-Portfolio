@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e9f8db9.chunk.css",
-    "main.js": "/static/js/main.625af15c.chunk.js",
-    "main.js.map": "/static/js/main.625af15c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2d6e79ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2d6e79ba.js.map",
-    "static/js/2.3184f645.chunk.js": "/static/js/2.3184f645.chunk.js",
-    "static/js/2.3184f645.chunk.js.map": "/static/js/2.3184f645.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2e9f8db9.chunk.css.map": "/static/css/main.2e9f8db9.chunk.css.map",
-    "static/js/2.3184f645.chunk.js.LICENSE.txt": "/static/js/2.3184f645.chunk.js.LICENSE.txt",
-    "static/media/map.d923a2c4.png": "/static/media/map.d923a2c4.png",
-    "static/media/profile_photo.ac38ed67.jpg": "/static/media/profile_photo.ac38ed67.jpg",
-    "static/media/project1.650317d3.png": "/static/media/project1.650317d3.png",
-    "static/media/project2.0aa07fbf.png": "/static/media/project2.0aa07fbf.png",
-    "static/media/project3.e26cc036.png": "/static/media/project3.e26cc036.png",
-    "static/media/project4.29052ccf.png": "/static/media/project4.29052ccf.png"
+    "main.css": "/keeper-app/static/css/main.2e9f8db9.chunk.css",
+    "main.js": "/keeper-app/static/js/main.625af15c.chunk.js",
+    "main.js.map": "/keeper-app/static/js/main.625af15c.chunk.js.map",
+    "runtime-main.js": "/keeper-app/static/js/runtime-main.c3622ad7.js",
+    "runtime-main.js.map": "/keeper-app/static/js/runtime-main.c3622ad7.js.map",
+    "static/js/2.e3fc9ca7.chunk.js": "/keeper-app/static/js/2.e3fc9ca7.chunk.js",
+    "static/js/2.e3fc9ca7.chunk.js.map": "/keeper-app/static/js/2.e3fc9ca7.chunk.js.map",
+    "index.html": "/keeper-app/index.html",
+    "static/css/main.2e9f8db9.chunk.css.map": "/keeper-app/static/css/main.2e9f8db9.chunk.css.map",
+    "static/js/2.e3fc9ca7.chunk.js.LICENSE.txt": "/keeper-app/static/js/2.e3fc9ca7.chunk.js.LICENSE.txt",
+    "static/media/map.d923a2c4.png": "/keeper-app/static/media/map.d923a2c4.png",
+    "static/media/profile_photo.ac38ed67.jpg": "/keeper-app/static/media/profile_photo.ac38ed67.jpg",
+    "static/media/project1.650317d3.png": "/keeper-app/static/media/project1.650317d3.png",
+    "static/media/project2.0aa07fbf.png": "/keeper-app/static/media/project2.0aa07fbf.png",
+    "static/media/project3.e26cc036.png": "/keeper-app/static/media/project3.e26cc036.png",
+    "static/media/project4.29052ccf.png": "/keeper-app/static/media/project4.29052ccf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d6e79ba.js",
-    "static/js/2.3184f645.chunk.js",
+    "static/js/runtime-main.c3622ad7.js",
+    "static/js/2.e3fc9ca7.chunk.js",
     "static/css/main.2e9f8db9.chunk.css",
     "static/js/main.625af15c.chunk.js"
   ]
