@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Neuromorphic-React-Portfolio/static/css/main.2e9f8db9.chunk.css",
-    "main.js": "/Neuromorphic-React-Portfolio/static/js/main.625af15c.chunk.js",
-    "main.js.map": "/Neuromorphic-React-Portfolio/static/js/main.625af15c.chunk.js.map",
-    "runtime-main.js": "/Neuromorphic-React-Portfolio/static/js/runtime-main.dcaaafe8.js",
-    "runtime-main.js.map": "/Neuromorphic-React-Portfolio/static/js/runtime-main.dcaaafe8.js.map",
-    "static/js/2.68b78417.chunk.js": "/Neuromorphic-React-Portfolio/static/js/2.68b78417.chunk.js",
-    "static/js/2.68b78417.chunk.js.map": "/Neuromorphic-React-Portfolio/static/js/2.68b78417.chunk.js.map",
+    "main.js": "/Neuromorphic-React-Portfolio/static/js/main.4543be7a.chunk.js",
+    "main.js.map": "/Neuromorphic-React-Portfolio/static/js/main.4543be7a.chunk.js.map",
+    "runtime-main.js": "/Neuromorphic-React-Portfolio/static/js/runtime-main.e077ddf3.js",
+    "runtime-main.js.map": "/Neuromorphic-React-Portfolio/static/js/runtime-main.e077ddf3.js.map",
+    "static/js/2.26e5dcd5.chunk.js": "/Neuromorphic-React-Portfolio/static/js/2.26e5dcd5.chunk.js",
+    "static/js/2.26e5dcd5.chunk.js.map": "/Neuromorphic-React-Portfolio/static/js/2.26e5dcd5.chunk.js.map",
     "index.html": "/Neuromorphic-React-Portfolio/index.html",
     "static/css/main.2e9f8db9.chunk.css.map": "/Neuromorphic-React-Portfolio/static/css/main.2e9f8db9.chunk.css.map",
-    "static/js/2.68b78417.chunk.js.LICENSE.txt": "/Neuromorphic-React-Portfolio/static/js/2.68b78417.chunk.js.LICENSE.txt",
+    "static/js/2.26e5dcd5.chunk.js.LICENSE.txt": "/Neuromorphic-React-Portfolio/static/js/2.26e5dcd5.chunk.js.LICENSE.txt",
     "static/media/map.d923a2c4.png": "/Neuromorphic-React-Portfolio/static/media/map.d923a2c4.png",
-    "static/media/profile_photo.ac38ed67.jpg": "/Neuromorphic-React-Portfolio/static/media/profile_photo.ac38ed67.jpg",
+    "static/media/profile_photo.5ade6006.png": "/Neuromorphic-React-Portfolio/static/media/profile_photo.5ade6006.png",
     "static/media/project1.650317d3.png": "/Neuromorphic-React-Portfolio/static/media/project1.650317d3.png",
     "static/media/project2.0aa07fbf.png": "/Neuromorphic-React-Portfolio/static/media/project2.0aa07fbf.png",
     "static/media/project3.e26cc036.png": "/Neuromorphic-React-Portfolio/static/media/project3.e26cc036.png",
     "static/media/project4.29052ccf.png": "/Neuromorphic-React-Portfolio/static/media/project4.29052ccf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcaaafe8.js",
-    "static/js/2.68b78417.chunk.js",
+    "static/js/runtime-main.e077ddf3.js",
+    "static/js/2.26e5dcd5.chunk.js",
     "static/css/main.2e9f8db9.chunk.css",
-    "static/js/main.625af15c.chunk.js"
+    "static/js/main.4543be7a.chunk.js"
   ]
 }
