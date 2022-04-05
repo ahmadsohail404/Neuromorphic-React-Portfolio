@@ -1,6 +1,6 @@
 import { Component } from "react";
 import ReactTypingEffect from "react-typing-effect";
-// import profilepic from "../img/profile_photo.jpg";
+// import profilepic from "../img/profile_photo.png";
 import Social from "../components/Social";
 
 class Home extends Component {
@@ -18,7 +18,7 @@ class Home extends Component {
             "A Programmer",
           ]}
           speed={100}
-          eraseDelay={700}
+          eraseDelay={300}
         />
         <div className="hr_line">
           <div className="hr_inner"></div>

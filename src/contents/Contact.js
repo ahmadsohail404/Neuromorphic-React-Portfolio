@@ -15,7 +15,7 @@ class Contact extends Component {
             <img src={Map} class="co1" alt="Map"></img>
           </div>
         </div>
-        <a href="https://drive.google.com/file/d/1PXRlURUjNDTwp8comXY35gLMTShE66O9/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1PYKLNctk-P5cBoR8DBrws6Svhownugpp/view?usp=sharing">
           <div className="back3">Download Resume</div>
         </a>
         <a href="mailto:youremail@gmail.com">

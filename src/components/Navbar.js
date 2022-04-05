@@ -1,6 +1,6 @@
 import { Component } from "react";
 import Navitem from "./Navitem";
-import profilepic from "../img/profile_photo.jpg";
+import profilepic from "../img/profile_photo.png";
 
 class Navbar extends Component {
   constructor(props) {

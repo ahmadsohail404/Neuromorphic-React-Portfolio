@@ -30,7 +30,7 @@ class Social extends Component {
         </a>
         <a
           class="btnsame btn4"
-          href="https://instagram.com/ahmadsohail__"
+          href="https://instagram.com/ahmadsohail_ig"
           target="_blank"
           rel="noopener noreferrer"
         >
